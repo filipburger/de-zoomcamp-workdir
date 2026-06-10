@@ -78,3 +78,5 @@ for df_chunk in tqdm(df_iter):
     df_chunk.to_sql(name=target_table, con=engine, if_exists='append')
     first = False
 
+if __name__ == '__main__':
+    run()
