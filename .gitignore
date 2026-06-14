@@ -1,3 +1,7 @@
 .venv/
 *.json
 *.parquet
+keys/
+.terraform/
+*.tfstate
+*.tfstate.backup
