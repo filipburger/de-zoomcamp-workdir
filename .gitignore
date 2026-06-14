@@ -7,4 +7,4 @@ keys/
 *.tfstate.backup
 .ipynb_checkpoints/
 *.csv
-01-docker-terraform/pipeline/.ipynb_checkpoints/notebook-checkpoint.ipynb
+01-docker-terraform/pipeline/.ipynb_checkpoints/
