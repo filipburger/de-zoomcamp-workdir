@@ -5,3 +5,5 @@ keys/
 .terraform/
 *.tfstate
 *.tfstate.backup
+.ipynb_checkpoints/
+*.csv
