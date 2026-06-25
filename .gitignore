@@ -8,3 +8,4 @@ keys/
 .ipynb_checkpoints/
 *.csv
 01-docker-terraform/pipeline/.ipynb_checkpoints/
+serving_dir/
