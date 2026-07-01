@@ -9,3 +9,4 @@ keys/
 *.csv
 01-docker-terraform/pipeline/.ipynb_checkpoints/
 serving_dir/
+.DS_Store

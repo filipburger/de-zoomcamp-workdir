@@ -1,0 +1,8 @@
+.vscode/
+logs/
+.venv/
+target/
+dbt_packages/
+logs/
+keys/
+*.json
